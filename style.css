@@ -12,7 +12,7 @@ h2{
 }
     
 .al{
-margin-left: 650px;
+margin-left: 630px;
 
 }
 p{
@@ -22,7 +22,7 @@ p:hover{
      background-image: linear-gradient(to right, blue, white, yellow  ); 
 }
 .ale{
-margin-left: 400px;
+margin-left: 430px;
 opacity: 0.1;
 width: 600px;
 }
@@ -37,7 +37,7 @@ body{
       background-image: linear-gradient(to right, navy, white, yellow  ); 
 }
 .p{
-    margin-left: 450px;
+    margin-left: 480px;
     opacity: 0.1;
 }
 .p:hover{
@@ -46,7 +46,7 @@ transition: 0.2s linear;
 opacity: 1;
 }
 .a{
-    margin-left: 350px;
+    margin-left: 380px;
     opacity: 0.1;
 }
 .a:hover{
@@ -55,7 +55,7 @@ transition: 0.2s linear;
 opacity: 1;
 }
 .l{
-    width: 500px;
+    width: 550px;
     margin-left:400px ;
     opacity: 0.1;
 }
